@@ -50,10 +50,10 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/daniel-koti/proffy
 
 # Entrar no diretório
-cd proffy-discovery
+cd proffy
 
 # Baixar as dependências
 npm i
@@ -66,5 +66,4 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
 
-
-Desenvolvido com 💜 por Daniel Moniz
+Desenvolvido por Daniel Koti
